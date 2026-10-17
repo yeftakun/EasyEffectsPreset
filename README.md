@@ -1,4 +1,4 @@
-# EasyEffects Preset - Edifier P180 Pro
+# EasyEffects Preset
 
 Custom EasyEffects preset tuned specifically for **Edifier P180** (so far)
 
